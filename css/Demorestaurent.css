@@ -1,0 +1,109 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Fredoka+One&display=swap');
+
+#three{
+    color: white;
+    font-size: 19px;
+   
+}
+
+header{
+    background-image: url(../Images/KS_029.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   height: 100vh;
+}
+.content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:rgb(248, 237, 236);
+    justify-content: center;
+    align-items: center;
+   
+}
+h1{
+    font-size: 60px;
+   
+}
+#one{
+    margin-left: 250px;
+    height: 60px;
+    width: 150px;
+     color: white;
+
+}
+.book{
+    height: 600px;
+    width: 100%;
+    background-color:black;
+
+}
+h3{
+    text-align: center;
+    color: white;
+}
+#five{
+    color: white;
+}
+p{
+    color: black;
+    
+}
+#six{
+    margin-left: 480px;
+}
+.box1{
+    height: 400px;
+    width: 370px;
+    border: solid 2px yellow;
+    background-color:white;
+    margin-left: 80px;
+    padding: 15px;
+}
+.box2 img{
+    height: 400px;
+    width: 500px;
+    margin-left: 462px;
+    margin-top: -363px;
+}
+.row2{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(223, 182, 107);
+}
+#seven{
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+}
+#copy{
+    text-align: center;
+    
+}
+.about {
+    height: 800px;
+    width: 100%;
+    background-color: blanchedalmond;
+    
+}
+h2{
+    text-align: center;
+    color: rgb(124, 16, 16);
+}
+#para{
+    padding: 25px;
+}
+
+
+.abmg img{
+   padding: 20px;
+   position: absolute;
+}
+.abimg img{
+ position: relative;
+left: 700px;
+}
